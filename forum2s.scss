@@ -1,0 +1,10 @@
+$primaryTitle: rgb(202, 95, 95);
+$textColor: rgb(52, 54, 55);
+
+body h1.yo {
+  background-color: $primaryTitle;
+  color: $textColor;
+}
+body h2.yo {
+  background-color: $primaryTitle;
+}
